@@ -3,3 +3,9 @@ vgg_face_weights.h5
 
 //Pictures
 Pictures/*
+
+//DS_Store
+.DS_Store
+
+//Python notebook checkpoints
+.ipynb_checkpoints/
