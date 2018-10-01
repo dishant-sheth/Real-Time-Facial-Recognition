@@ -1,0 +1,5 @@
+//Weights are too large to push on github (approx 600MB)
+vgg_face_weights.h5
+
+//Pictures
+Pictures/*
